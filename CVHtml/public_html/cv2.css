@@ -1,0 +1,115 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 15 sept. 2020, 13:13:44
+    Author     : apean
+*/
+
+.cadreCivilite{
+    border: 2px ridge blue;
+    border-radius: 15px;
+}
+.nomPrenom{
+    font-weight: bold;
+}
+.adresse{
+    font-style:italic;
+}
+.ageTel{
+    font-style:italic;
+}
+
+.photo{
+    margin-left: 75%;
+    width: 75px;
+        margin-top: -20%;
+}
+
+.typeStage{
+    font-weight: bold;
+}
+
+.cadreFormation{
+     border: 2px ridge blue;
+    border-radius: 15px;
+    margin-top: 10px;
+}
+.titreFormation{
+    border: 2px ridge yellow;
+    border-radius: 15px;
+    margin-top: 10px;
+    background-color: darkblue;
+    text-align: center;
+    font-size:180%;
+    color:white;
+    width:67%;
+    padding-right: 50%       
+}
+.diplome{
+    font-weight: bold;
+}
+.detailDiplome{
+    font-style:italic;
+}
+
+.cadreExperience{
+    border: 2px ridge blue;
+    border-radius: 15px;
+    margin-top: 10px;
+}
+.titreExperience{
+    border: 2px ridge yellow;
+    border-radius: 15px;
+    margin-top: 10px;
+    background-color: darkblue;
+    text-align: center;
+    font-size:180%;
+    color:white;
+    width:67%;
+    padding-right: 34% 
+}
+.anneeExperience{
+    font-weight: bold;
+}
+.entrepriseExperience{
+    font-weight: bold;
+}
+.periodeExperience{
+    font-style:italic;
+}
+.descriptionExperience{
+    list-style-type: disc;
+}
+
+
+.cadreCompetences{
+    border: 2px ridge blue;
+    border-radius: 15px;
+    margin-top: 10px;
+}
+
+.titreCompetence{
+    border: 2px ridge yellow;
+    border-radius: 15px;
+    margin-top: 10px;
+    background-color: darkblue;
+    text-align: center;
+    font-size:180%;
+    color:white;
+    width:67%;
+    padding-right: 35% 
+}
+.competence{
+    font-weight: bold;
+    
+}
+.detailCompetence{
+    font-style:italic;
+    font-weight: normal;
+}
+.competencelist{
+    list-style-type: disc;
+}

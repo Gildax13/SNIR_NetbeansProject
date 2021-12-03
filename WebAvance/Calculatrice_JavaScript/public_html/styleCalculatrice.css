@@ -1,0 +1,133 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 17 févr. 2021, 09:18:17
+    Author     : playt
+*/
+#fondCalcul{
+    background-color: lightgray;
+    width: 185px;
+    height: 230px;
+    border: 2px ridge black;
+
+}
+.touche{
+    width: 40px;
+    height: 40px;
+    border-radius: 15px;
+    background-color: white;
+}
+
+#saisieText{
+    position: absolute;
+    width: 180px;
+    height: 20px;
+    left: 10px;
+    background-color: beige;
+    
+    
+}
+#un{
+   position: absolute;
+   top: 155px;
+   left: 15px;
+
+}
+#deux{
+   position: absolute;
+   top: 155px;
+   left: 60px;
+
+}
+#trois{
+   position: absolute;
+   top: 155px;
+   left: 105px;
+
+}
+#quatre{
+   position: absolute;
+   top: 105px;
+   left: 15px;
+}
+#cinq{
+   position: absolute;
+   top: 105px;
+   left: 60px;
+
+}
+#six{
+   position: absolute;
+   top: 105px;
+   left: 105px;
+
+}
+
+#sept{
+   position: absolute;
+   top: 55px;
+   left: 15px;
+
+}
+
+#huit{
+   position: absolute;
+   top: 55px;
+   left: 60px;
+
+}
+
+#neuf{
+   position: absolute;
+   top: 55px;
+   left: 105px;
+
+}
+
+#zero{
+position: absolute;
+   top: 205px;
+   left: 15px;
+}
+
+#slash{
+   position: absolute;
+   top: 55px;
+   left: 150px;
+}
+
+#fois{
+   position: absolute;
+   top: 105px;
+   left: 150px;
+}
+
+#moins{
+   position: absolute;
+   top: 155px;
+   left: 150px;
+}
+
+#plus{
+  position: absolute;
+   top: 205px;
+   left: 150px;
+
+}
+
+#egal{
+ position: absolute;
+   top: 205px;
+   left: 105px;
+
+}
+
+#virgule{
+ position: absolute;
+   top: 205px;
+   left: 60px;
+
+}

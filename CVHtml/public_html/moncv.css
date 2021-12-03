@@ -1,0 +1,120 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 15 sept. 2020, 14:08:53
+    Author     : apean
+*/
+
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 9 sept. 2020, 11:11:05
+    Author     : apean
+*/
+
+body{
+
+   
+    color: black;
+}
+
+
+.cadreCivilite{
+    border: 2px ridge lightcoral;
+    border-radius: 15px;
+    margin-top: 10px;
+    text-align: center;  
+
+}
+
+.nomPrenom{
+    font-weight: bold;
+}
+.photo{
+    margin-left: -30%;
+    width: 65px;
+    height: 75px;
+
+}
+.typeStage{
+    font-weight: bold;
+    text-align: center;
+}
+
+.cadreFormation{
+    border: 2px ridge lightcoral;
+    border-radius: 15px;
+    margin-top: 10px;
+
+}
+.titreFormation{
+    font-weight: bold;
+    margin-left: 45%;
+    font-size:25px;
+
+    border-bottom: 3px solid black;
+    border-color: red;
+}
+.diplome{
+    font-weight: bold;
+}
+.detailDiplome{
+
+}
+
+.titreExperience{
+    font-weight: bold;
+    margin-left: 37%;
+    font-size:25px;
+
+    border-bottom: 3px solid black;
+    border-color: red;
+}
+
+.cadreExperience{
+
+    border: 2px ridge lightcoral;
+    border-radius: 15px;
+    margin-top: 10px;
+}
+.anneeExperience{
+    font-weight: bold;
+}
+.entrepriseExperience{
+    font-weight: bold;
+}
+.descriptionExperience{
+    list-style-type: disc;
+}
+
+.cadreCompetences{
+
+    border: 2px ridge lightcoral;
+    border-radius: 15px;
+    margin-top: 10px;
+}
+
+.titreCompetence{
+    font-weight: bold;
+    margin-left: 38%;
+    font-size:25px;
+
+    border-bottom: 3px solid black;
+    border-color: red;
+}
+
+.competencelist{
+    list-style-type: disc;
+}
+.competence{
+    font-weight: bold;
+}
+.detailCompetence{
+    font-weight: initial;
+}

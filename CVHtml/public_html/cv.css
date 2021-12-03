@@ -1,0 +1,140 @@
+css
+
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 15 sept. 2020, 13:30:39
+    Author     : apean
+*/
+
+.cadreCivilite{
+    background-color: white;
+    text-align: center;
+    width: 700px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+    /*height: 100px;*/
+    font-size: small;
+    
+}
+.photo{
+    position: absolute;
+    left: 5px;
+    top: 10px;
+    width: 70px;
+    height: 100px;
+}
+.nomPrenom{
+    font-weight: bold;
+    font-size: large;
+}
+.adresse{
+    font-style: italic;
+    
+}
+.ageTel{
+    font-style: normal;
+    
+}
+.courriel{
+    color: blueviolet;
+    
+}
+.typeStage{
+    font-weight: bold;
+    font-style: normal;
+    
+    
+}
+
+.cadreFormation{
+        width: 790px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    /*height: 200px;*/
+    background-color: #EEEEEE;
+    font-size: small;
+    
+}
+.titreRubrique{
+    
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    display: block;
+    text-transform: uppercase;
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+    width: 790px;
+    margin-bottom: 10px;
+    
+}
+.diplome{
+    font-weight: bold;
+}
+.detailDiplome{
+    font-style: italic;
+}
+.cadreExperience{
+          width: 790px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #DDDDDD;
+    font-size: small;
+    
+}
+.anneeExperience{
+    font-weight: bold;
+}
+.posteExperience{
+    font-style: normal;
+    
+}
+.entrepriseExperience{
+    font-weight: bold;
+    font-style: italic;
+    
+}
+.periodeExperience{
+    font-style: italic;
+    
+}
+.descriptionExperience{
+    display: list-item;
+    margin-left: 30px;
+    
+}
+
+
+.cadreCompetences{
+          width: 790px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #CCCCCC;
+    font-size: small;
+    
+}
+.competence{
+    display: list-item;
+    margin-left: 30px;
+    font-weight: bold;
+    
+}
+.detailCompetence{
+    font-style: italic;
+    font-weight: normal;   
+}
+
+

@@ -1,0 +1,227 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 29 sept. 2020, 14:06:03
+    Author     : apean
+*/
+
+
+.styleListe1{
+    list-style-type: disc;
+}
+.styleListe2{
+    list-style-type:circle ;
+}
+body{
+    position: absolute;
+}
+.module1{
+   background-image: url("img/cisco.jpg");
+       border: 2px ridge blue;
+       background-size: 400px 300px;
+       width: 400px;
+       height: 200px;
+       position: absolute;
+   
+}
+.module1:hover{
+    border: 2px ridge red;
+       
+    
+}
+  .box:hover{
+        background-color: white;
+        border: 2px ridge black;
+        border-radius:15px;
+    }     
+  
+
+
+.module2{
+     background-image: url("img/cisco.jpg");
+      border: 2px ridge blue;
+      background-size: 400px 300px;
+      left: 403px;
+      top: 0px;
+      width: 400px;
+       height: 200px;
+      position: absolute;
+    
+}
+.module2:hover{
+    
+       border: 2px ridge red;
+       background-color: lightgreen;
+    
+}
+
+
+.module3{
+ 
+    background-image: url("img/cisco.jpg");
+     border: 2px ridge blue;
+           background-size: 400px 300px;
+      left: 806px;
+      top: 0px;
+      width: 400px;
+       height: 200px;
+      position: absolute;
+   
+}
+.module3:hover{
+    
+       border: 2px ridge red;
+       background-color: lightgreen;
+    
+}
+.module4{
+     background-image: url("img/cisco.jpg");
+      border: 2px ridge blue;
+           background-size: 400px 300px;
+      
+     top: 203px;
+      width: 400px;
+       height: 200px;
+      position: absolute;
+   
+}
+.module4:hover{
+    
+       border: 2px ridge red;
+       background-color: lightgreen;
+    
+}
+.module5{
+     background-image: url("img/cisco.jpg");
+      border: 2px ridge blue;
+            background-size: 400px 300px;
+      left: 403px;
+      top: 203px;
+      width: 400px;
+       height: 200px;
+      position: absolute;
+    
+}
+.module5:hover{
+    
+       border: 2px ridge red;
+       background-color: lightgreen;
+    
+}
+.module6{
+     background-image: url("img/cisco.jpg");
+      border: 2px ridge blue;
+            background-size: 400px 300px;
+      left: 806px;
+      top: 203px;
+      width: 400px;
+       height: 200px;
+      position: absolute;
+    
+}
+.module6:hover{
+    
+       border: 2px ridge red;
+       background-color: lightgreen;
+    
+}
+.module7{
+     background-image: url("img/cisco.jpg");
+      border: 2px ridge blue;
+            background-size: 400px 300px;
+      
+      top: 406px;
+      width: 400px;
+       height: 200px;
+      position: absolute;
+    
+}
+.module7:hover{
+    
+       border: 2px ridge red;
+       background-color: lightgreen;
+    
+}
+.module8{
+     background-image: url("img/cisco.jpg");
+      border: 2px ridge blue;
+            background-size: 400px 300px;
+      left: 403px;
+      top: 406px;
+      width: 400px;
+       height: 200px;
+      position: absolute;
+    
+}
+.module8:hover{
+    
+       border: 2px ridge red;
+       background-color: lightgreen;
+    
+}
+.module9{
+     background-image: url("img/cisco.jpg");
+      border: 2px ridge blue;
+            background-size: 400px 300px;
+      left: 806px;
+      top: 406px;
+      width: 400px;
+       height: 200px;
+      position: absolute;
+  
+}
+.module9:hover{
+    
+       border: 2px ridge red;
+       background-color: lightgreen;
+    
+}
+.module10{
+     background-image: url("img/cisco.jpg");
+      border: 2px ridge blue;
+            background-size: 400px 300px;
+      left: 203px;
+      top: 610px;
+      width: 400px;
+       height: 200px;
+      position: absolute;
+} 
+.module10:hover{
+    
+       border: 2px ridge red;
+       background-color: lightgreen;
+    
+}
+.module11{
+     background-image: url("img/cisco.jpg");
+      border: 2px ridge blue;
+            background-size: 400px 300px;
+      left: 607px;
+      top: 610px;
+      width: 400px;
+       height: 200px;
+      position: absolute;
+   
+}
+.module11:hover{
+    
+       border: 2px ridge red;
+       background-color: lightgreen;
+    
+}
+.titreModule{
+    text-align: center;
+    background-color:white;
+    margin-left: 75px;
+    margin-right: 75px;
+}
+.lien{
+       left: 513px;
+      top: 818px;
+      width: 400px;
+       height: 200px;
+      position: absolute; 
+}

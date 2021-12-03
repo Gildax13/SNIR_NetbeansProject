@@ -1,0 +1,238 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 10 févr. 2021, 08:56:59
+    Author     : Adrien PEAN 
+*/
+@media screen and (min-width:950px){
+#fieldInfos{
+    position: absolute;
+    background-color: #ffcccc;
+    border-style: solid;
+    border-width: 1px;
+    width: 400px;
+    height: 400px;
+    left : 30px;
+    
+}
+#fieldSavoirs{
+    position: absolute;
+    background-color: #99ff99;
+    border-style: solid;
+    border-width: 1px;
+    width: 400px;
+    height: 400px;
+    
+    
+}
+#formulaire{
+    position: absolute;
+    background-color: #cccccc;
+    width: 1000px;
+    height: 690px;
+}
+#parametres{
+    position: absolute;
+    width: 900px;
+    top : 400px;  
+    left:45px;
+    background-color: bisque;
+    border-style: solid;
+    border-width: 1px;   
+}
+#nom{
+    margin-left: 30px;
+}
+#prenom{
+    margin-left: 9px;
+}
+#email{
+    margin-left: 34px;
+}
+#ville{
+    margin-left: 33px;
+}
+#site{
+    margin-left: 35px;
+}
+#indetermine{
+    margin-left: 65px;
+}
+#feminin{
+    margin-left: 65px;
+}
+#masculin{
+    margin-left: 65px;
+}
+
+#Sexe{
+    position: absolute;
+    top: 237px;
+}
+#photo{
+    position: absolute;
+    top: 310px;
+    left: 80px;
+
+}
+
+
+#ConfirmPassword{
+    margin-left: 63px;  
+}
+#Password{   
+    margin-left: 150px;  
+}
+#Login{
+    margin-left: 201px;  
+}
+
+
+#RegisterButton{
+    position: absolute;
+    top: 600px;
+    left: 260px;  
+}
+#CleanButton{
+    position: absolute;
+    top: 600px;
+    left: 520px;
+}
+#C{
+    margin-left: 61px;  
+}
+#Java{
+    margin-left: 40px;
+}
+#PHP{
+    margin-left: 42px;
+}
+#Autres{
+    margin-left: 27px;
+}
+#Version{
+    margin-left: 101px;
+}
+label{
+    margin-left: 12px;
+}
+}
+
+@media screen and (max-width:950px){
+#fieldInfos{
+    position: absolute;
+    background-color: #ffcccc;
+    border-style: solid;
+    border-width: 1px;
+    width: 400px;
+    height: 400px;
+    left : 30px;
+    
+}
+#fieldSavoirs{
+    position: absolute;
+    background-color: #99ff99;
+    border-style: solid;
+    border-width: 1px;
+    width: 400px;
+    height: 400px;
+    top: 440px;
+    left:-220px;
+    
+    
+}
+#formulaire{
+    position: absolute;
+    background-color: #cccccc;
+    width: 500px;
+    height: 1200px;
+}
+#parametres{
+    position: absolute;
+    width: 470px;
+    top : 830px;  
+    left: 15px;
+    background-color: bisque;
+    border-style: solid;
+    border-width: 1px;   
+}
+#nom{
+    margin-left: 30px;
+}
+#prenom{
+    margin-left: 9px;
+}
+#email{
+    margin-left: 34px;
+}
+#ville{
+    margin-left: 33px;
+}
+#site{
+    margin-left: 35px;
+}
+#indetermine{
+    margin-left: 65px;
+}
+#feminin{
+    margin-left: 65px;
+}
+#masculin{
+    margin-left: 65px;
+}
+
+#Sexe{
+    position: absolute;
+    top: 237px;
+}
+#photo{
+    position: absolute;
+    top: 310px;
+    left: 80px;
+
+}
+
+
+#ConfirmPassword{
+    margin-left: 63px;  
+}
+#Password{   
+    margin-left: 150px;  
+}
+#Login{
+    margin-left: 201px;  
+}
+
+
+#RegisterButton{
+    position: absolute;
+    top: 1050px;
+    left: 60px;  
+}
+#CleanButton{
+    position: absolute;
+    top: 1050px;
+    left: 220px;
+}
+#C{
+    margin-left: 61px;  
+}
+#Java{
+    margin-left: 40px;
+}
+#PHP{
+    margin-left: 42px;
+}
+#Autres{
+    margin-left: 27px;
+}
+#Version{
+    margin-left: 101px;
+}
+label{
+    margin-left: 12px;
+}
+}

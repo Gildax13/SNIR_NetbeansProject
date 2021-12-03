@@ -1,0 +1,134 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 29 sept. 2020, 13:09:39
+    Author     : apean
+*/
+
+th{
+    border: 2px ridge blue;
+    font-weight:normal;
+
+}
+td{
+    border: 2px ridge blue;
+    font-weight:normal;
+
+}
+div{
+    font-weight:normal;
+}
+
+.fondJaune{
+    background-color: #fef88c;
+    margin-left: 15%;
+    margin-right: 15%;
+    width: 900px;
+    height: 140px;
+   
+}
+.taille1{
+    width: 100%;
+    
+}
+.italic{
+    font-style:italic;
+
+}
+.texteDroit{
+    margin-left: 40%;
+    margin-top: -11.2%;
+}
+.img{
+    position: absolute;
+    left: 72%;;
+    top: 10px;
+    width: 100px;
+    height: 100px;
+}
+
+.styleListe1{
+    list-style-type: decimal  ;
+    font-weight:bold;
+    margin-left: 33%
+}
+.styleListe2{
+    list-style-type: circle;
+    text-transform: initial;
+}
+.styleListe3{
+    list-style-type: square ;
+    text-transform: initial;
+}
+.body{
+    text-align: left;
+}
+ol{
+    font-weight:normal;
+}
+
+.tabGauche{
+    margin-left: 50%; 
+    width:52%;
+}
+.tabDroite{
+    margin-left: 35%;
+        margin-top:10%;
+}
+
+
+
+.tableDroite{
+    margin-left: 50%;
+    width:50%;
+    height: 360px;
+    
+}
+
+.titre{
+    color : blue;
+    text-align: center;
+
+}
+.titre2{
+    color : blue;
+    text-align: center;
+    margin-top:-28%;
+
+}
+.body{
+    font-weight:initial;
+}
+
+.nom{
+    font-style:italic;
+    margin-left:200px;
+   
+}
+.prenom{
+    font-style:italic;
+    margin-left:175px;
+    padding-bottom: 20px;
+}
+.num{
+    font-style:italic;
+    margin-left:155px;
+}
+.adresse{
+    font-style:italic;
+    margin-left:175px;
+}
+.texteGauche{
+    padding-bottom: 20px;
+    padding-left: 10%;
+    margin-left: 12%;
+    
+}
+.txt{
+    padding-bottom: 20px;
+    text-align: left;
+    
+}

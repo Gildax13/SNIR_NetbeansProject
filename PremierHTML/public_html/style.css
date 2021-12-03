@@ -1,0 +1,150 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 3 sept. 2020, 11:42:12
+    Author     : apean
+*/
+
+table, td, th{
+    border: 1px solid black;
+
+}
+#tableau{
+    border-collapse: collapse;
+}
+
+.image{
+    width: 50px;
+}
+
+#edt{
+    text-align: center;
+    border-collapse: collapse;
+    background-color: #b6c6fd
+}
+.boite{
+    background-color: #4fecc0;
+    margin-right: 80%;
+}
+.titre{
+    text-align: center; 
+    background-color: #ede89e; 
+    left: 50%; 
+    height: 20px; 
+    border-style: ridge; 
+    margin-left: 40%; 
+    margin-right: 40%;
+    border-color: #e22acb;
+    color: blue;
+
+}
+
+.cadre1{
+    text-align: center; 
+    height: 20px; 
+    border-style: groove; 
+    margin-right: 80%; 
+    border-color: #3662ff ;
+    color:#e22acb; 
+
+}
+
+.cadre2{
+    text-align: center; 
+    height: 20px; 
+    border-style: groove; 
+    margin-right: 80%; 
+    border:white ; 
+    background-color: #f2f1bc; 
+    margin-left:80px 
+
+}
+.txt1{
+    margin-left: 80px; 
+    font-family: 'Courier 10 Pitch'; 
+}
+
+.txt2{
+    margin-left: 120px; 
+    font-family: 'Century Schoolbook L';
+}
+
+.cadreBasDroit{
+    position: absolute;
+    top:710px;
+    left:205px;
+    width:200px;
+    height: 100px;
+
+    background-color:#b4b372    
+}
+.cadreBasGauche{
+    position: absolute;
+    top:710px;
+    left:5px;
+    width:200px;
+    height: 100px;
+
+    background-color:#b6c6fd
+
+}
+.cadreHautDroit{
+    position: absolute;
+    top:610px;
+    left:205px;
+    width:200px;
+    height: 100px; 
+    background-color:aquamarine 
+}
+.cadreHautGauche{
+    background-color:antiquewhite;
+    position: absolute;
+    top:610px;
+    left:5px;
+    width:200px;
+    height: 100px;
+}
+.boite1{
+    background-color: pink;
+    position: absolute;
+    top:850px;
+    left:5px;
+    width:200px;
+    height: 100px;
+    z-index: 1;
+    
+} 
+.boite2{
+    background-color: orange;
+    top:870px;
+    left:25px;
+    width:200px;
+    height: 100px;
+    position: absolute;
+    z-index: 2;
+}
+.boite3{
+    background-color: blue;
+    top:890px;
+    left:45px;
+    width:200px;
+    height: 100px;
+    position: absolute;
+    z-index: 3;
+}
+.boite4{
+    background-color: green;
+    top:910px;
+    left:65px;
+    width:200px;
+    height: 100px;
+    position: absolute;
+    z-index: 4;
+}
+
+
+
+

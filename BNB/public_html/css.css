@@ -1,0 +1,346 @@
+/* 
+    Created on : 16 sept. 2020, 09:16:00
+    Author     : apean
+*/
+@media screen and (min-width:300px){
+.blocsHaut{
+        background-color:black;
+        color: white;
+        font-size: 15px;
+        width: 110px;
+        height: 40px;
+        text-align: center;
+
+    }   
+
+    .blocsHaut:hover{
+        box-shadow: 0px 0px 20px 5px lightgreen;
+        background-color: lightgreen;
+ 
+
+    }
+    #particulier{
+        position:absolute;
+        top: 10px;
+        left: 10px;
+    }
+    #priority{
+        position:absolute;
+        top: 60px;
+        left: 10px;
+    }
+    #banquePrivee{
+        position:absolute;
+        top: 110px;
+        left: 10px;
+    }
+    #professionnels{
+        position:absolute;
+        top: 160px;
+        left: 10px;
+    }
+    #entreprises{
+        position:absolute;
+        top: 210px;
+        left: 10px;
+    }
+    #associations{
+        position:absolute;
+        top: 260px;
+        left: 10px; 
+
+    }
+ #cochon{
+        visibility: hidden;
+    }
+
+    .blocsGauche{
+        visibility: hidden;
+    }
+}
+
+@media screen and (min-width:750px){
+    .blocsHaut{
+        background-color:black;
+        color: white;
+        font-size: 15px;
+        width: 110px;
+        height: 40px;
+        text-align: center;
+
+    }   
+
+    .blocsHaut:hover{
+        box-shadow: 0px 0px 20px 5px lightgreen;
+        background-color: lightgreen;
+ 
+
+    }
+    #particulier{
+        position:absolute;
+        top: 10px;
+        left: 10px;
+    }
+    #priority{
+        position:absolute;
+        top: 10px;
+        left: 110px;
+    }
+    #banquePrivee{
+        position:absolute;
+        top: 10px;
+        left: 210px;
+    }
+    #professionnels{
+        position:absolute;
+        top: 10px;
+        left: 310px;
+    }
+    #entreprises{
+        position:absolute;
+        top: 10px;
+        left: 420px;
+    }
+    #associations{
+        position:absolute;
+        top: 10px;
+        left: 520px; 
+
+    }
+
+    .blocsGauche{
+        background-color:black;
+        color: white;
+        font-size: 15px;
+        width: 140px;
+        height: 140px;
+        text-align: center;
+        text-transform:uppercase;
+        visibility: visible;
+    }
+
+    #alaune{
+        position:absolute;
+        top: 120px;
+        left: 10px   
+    }
+    #alaune:hover{
+        background-color: green;
+        color:black;
+    }
+    #offre{
+        position:absolute;
+        top: 260px;
+        left: 10px
+    }
+    #offre:hover{
+        background-color: lightgreen;
+        color:black;
+    }
+    #besoin{
+        position:absolute;
+        top: 400px;
+        left: 10px
+    }
+    #besoin:hover{
+        background-color: lightseagreen;
+        color:black;
+    }
+    #contact{
+        position:absolute;
+        top: 540px;
+        left: 10px
+    }
+    #contact:hover{
+        background-color: lightskyblue;
+        color:black;
+    }
+    #bonplans{
+        position:absolute;
+        top: 680px;
+        left: 10px
+    }
+    #bonplans:hover{
+        background-color: pink;
+        color:black;
+    }
+    .sousTitreGauche{
+        text-transform: lowercase;
+    }
+    #cochon{
+        visibility: hidden;
+    }
+      #logo{
+        background-image: url(img/logo.png);
+        background-repeat: no-repeat;
+        padding: 0;
+        width: 450px;
+        height: 70px;
+        margin-top: 50px;
+    }
+}
+
+@media screen and (min-width:900px){
+    .blocsHaut{
+        background-color:black;
+        color: white;
+        font-size: 15px;
+        width: 150px;
+        height: 40px;
+        text-align: center;
+
+    }   
+
+    .blocsHaut:hover{
+        box-shadow: 0px 0px 20px 5px lightgreen;
+        background-color: lightgreen;
+ 
+
+    }
+    #particulier{
+        position:absolute;
+        top: 10px;
+        left: 10px;
+    }
+    #priority{
+        position:absolute;
+        top: 10px;
+        left: 160px;
+    }
+    #banquePrivee{
+        position:absolute;
+        top: 10px;
+        left: 310px;
+    }
+    #professionnels{
+        position:absolute;
+        top: 10px;
+        left: 460px;
+    }
+    #entreprises{
+        position:absolute;
+        top: 10px;
+        left: 610px;
+    }
+    #associations{
+        position:absolute;
+        top: 10px;
+        left: 760px; 
+
+    }
+
+    .blocsGauche{
+        background-color:black;
+        color: white;
+        font-size: 15px;
+        width: 150px;
+        height: 140px;
+        text-align: center;
+        text-transform:uppercase;
+        visibility: visible;
+    }
+
+    #alaune{
+        position:absolute;
+        top: 120px;
+        left: 10px   
+    }
+    #alaune:hover{
+        background-color: green;
+        color:black;
+    }
+    #offre{
+        position:absolute;
+        top: 260px;
+        left: 10px
+    }
+    #offre:hover{
+        background-color: lightgreen;
+        color:black;
+    }
+    #besoin{
+        position:absolute;
+        top: 400px;
+        left: 10px
+    }
+    #besoin:hover{
+        background-color: lightseagreen;
+        color:black;
+    }
+    #contact{
+        position:absolute;
+        top: 540px;
+        left: 10px
+    }
+    #contact:hover{
+        background-color: lightskyblue;
+        color:black;
+    }
+    #bonplans{
+        position:absolute;
+        top: 680px;
+        left: 10px
+    }
+    #bonplans:hover{
+        background-color: pink;
+        color:black;
+    }
+    .sousTitreGauche{
+        text-transform: lowercase;
+    }
+
+    #cochon{
+        margin-left: 35%;
+        margin-top: 60%;
+        visibility: visible;    
+    }
+    #centre{
+        background: linear-gradient(to left,white,green);
+        margin-left: 180px; 
+       
+       
+        width: 750px;
+        height: 700px;
+        
+    }
+    #logo{
+        background-image: url(img/logo.png);
+        background-repeat: no-repeat;
+        padding: 0;
+        width: 450px;
+        height: 70px;
+        margin-top: 50px;
+    }
+   
+    
+    
+    #piece{
+        background:yellow;
+        border-radius:15px;;
+        width:30px;
+        height:30px;
+        margin-left: 47%;
+        position: relative;
+        animation: anim 4s linear 0s infinite ;
+    }
+    @keyframes anim{
+        0% {left:0px; top:0px;}
+        50%{left:0px; top:250px;}
+        100%{left:0px; top:500px;}
+    }
+}
+
+                                   
+
+
+
+
+
+
+
+
+
+
+
+
+

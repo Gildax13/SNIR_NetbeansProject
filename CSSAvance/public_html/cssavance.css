@@ -1,0 +1,119 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 16 sept. 2020, 08:28:42
+    Author     : apean
+*/
+body{
+    background-color: black;
+}
+.titreOmbre{
+    color: white;
+    border: 2px ridge lightgreen;
+    border-radius: 15px;
+        margin-left:40%;
+        text-align: center;
+    margin-right: 40%;
+}
+.titreOmbre:hover{
+    color: white;
+    
+    box-shadow: 0px 0px 5px 15px lightgreen;
+    text-align: center;
+    margin-left:40%;
+    margin-right: 40%;
+}
+
+.degradeLineaire{
+    color: white;
+    background: linear-gradient(to left,blue,white);
+    width: 200px;
+    height: 200px;
+}
+.degradeRadial{
+    color: white;
+    background: radial-gradient(100px,green,lightgreen);
+    width: 200px;
+    height: 200px;
+    margin-left:220px;
+    margin-top: -200px;
+}
+
+.boites{
+    width:250px;
+    height:250px;
+    margin-top: 20px
+}
+.boite1{
+    background-color: green;
+}
+.boite2{
+    background-color: lightgreen;
+}
+.boite3{
+    background-color: pink;
+}
+
+@media screen and (min-width:300px){
+    .boite1{
+        
+    }
+    .boite2{
+        
+    }
+    .boite3{
+        
+    }
+
+}
+@media screen and (min-width:600px){
+    .boite1{
+        
+    }
+    .boite2{
+        margin-left: 270px;
+        margin-top: -250px;  
+    }
+    .boite3{
+        
+    }
+
+}
+@media screen and (min-width:900px){
+    .boite1{
+        
+    }
+    .boite2{
+
+    }
+    .boite3{
+        margin-left: 540px;
+        margin-top: -250px; 
+    }
+
+    
+    
+    
+    
+    
+    .animation:active{
+        witdh:30px;
+        height: 30px;
+        border-radius: 15px;
+        background: red;
+        position: relative;
+        animation: anim 4s linear 0s infinite alternate;
+        margin-left: 40%;
+        margin-right: 40%;
+        
+    }
+    
+    @keyframes anim{
+        0% {background:red; left:40%; top:20%;}
+        50%{background:violet; left:200px; top:0px;}
+        100%{background:blue; left:400px; top:0px;}
+    }
+}
